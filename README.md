@@ -9,7 +9,7 @@
 Hello! I'm Sourav Palat, a passionate DevOps Engineer with a strong foundation in cloud computing and automation. I hold a degree in Computer Science and have hands-on experience with a variety of DevOps tools and practices, including AWS, Docker, Kubernetes, and Jenkins.
 
 - 📫 How to reach me **souravpalat98@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kIzY_uVr9_0sGbYZwGzJGh53Bd1N4Lxr/view?usp=drive_link](https://drive.google.com/file/d/1kIzY_uVr9_0sGbYZwGzJGh53Bd1N4Lxr/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1k-TJuV4t6FE5MiobGlAzENvrrQR19jsO/view?usp=drive_link
 
 
 ## Skills And Tools:
